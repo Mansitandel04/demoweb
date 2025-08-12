@@ -85,7 +85,7 @@ const Demo = () => {
             Facebook account, you can copy the URL and share it with your
             administrator.
           </p>
-          <img src={img1} alt="img1" className="p-5 shadow-2xl rounded-xl mx-auto" />
+          <img src={img1} alt="img1" className="p-5 shadow-2xl mx-auto" />
 
           <p className="text-gray-700 mt-20 mb-3 text-sm lg:text-lg text-left mx-auto">
             3. Log into Facebook if you haven't already or click.
@@ -93,18 +93,18 @@ const Demo = () => {
             already signed in. After logging in, you will be shown an overview
             of the process of connecting your number to WhatsApp.
           </p>
-          <img src={img2} alt="img2" className="p-5 shadow-2xl rounded-xl mx-auto" />
+          <img src={img2} alt="img2" className="p-5 shadow-2xl  mx-auto" />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             4. Select <span className="font-bold">Get Started.</span>
           </p>
-          <img src={img3} alt="img3" className="p-5 shadow-2xl rounded-xl mx-auto" />
+          <img src={img3} alt="img3" className="p-5 shadow-2xl  mx-auto" />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             5. Fill in your business information and select.
             <span className="font-bold">Next.</span>
           </p>
-          <img src={img7} alt="img7" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img7} alt="img7" className="p-5 shadow-2xl " />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             6. Next, you will be able to select a{" "}
@@ -112,42 +112,42 @@ const Demo = () => {
             and <span className="font-bold">WhatsApp Business Profile </span>or
             create a new one
           </p>
-          <img src={img8} alt="img8" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img8} alt="img8" className="p-5 shadow-2xl" />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             7. Now, provide details for your business information.
           </p>
-          <img src={img9} alt="img9" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img9} alt="img9" className="p-5 shadow-2xl " />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             8. Create or select your WhatsApp Business account. Then, select{" "}
             <span className="font-bold">Next.</span>
           </p>
-          <img src={img10} alt="img10" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img10} alt="img10" className="p-5 shadow-2xl" />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             9. Provide a WhatsApp Business display name and select the
             category. Then, select <span className="font-bold">Next.</span>
           </p>
-          <img src={img11} alt="img11" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img11} alt="img11" className="p-5 shadow-2xl " />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             10. Next, you will receive a verification code on your registered
             phone number. Enter the verification code and select{" "}
             <span className="font-bold">Next.</span>
           </p>
-          <img src={img12} alt="img12" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img12} alt="img12" className="p-5 shadow-2xl " />
 
           <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
             11. Review the permissions requested and select{" "}
             <span className="font-bold">Continue.</span>
           </p>
-          <img src={img13} alt="img13" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img13} alt="img13" className="p-5 shadow-2xl " />
 
         <p className="text-gray-700 mt-20 mb-2 text-sm lg:text-lg text-left">
   12. You're all set to go. Select. <span className="font-bold">Finish.</span>
 </p>
-          <img src={img14} alt="img14" className="p-5 shadow-2xl rounded-xl" />
+          <img src={img14} alt="img14" className="p-5 shadow-2xl " />
 
           
         </div>
